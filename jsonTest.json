@@ -1,0 +1,23 @@
+{
+	"apps" : [
+		{
+			"appName": "App 1",
+			"appId": "com.app.one"
+		},
+
+		{
+			"appName": "App 2",
+			"appId": "com.app.two"
+		},
+
+		{
+			"appName": "App 3",
+			"appId": "com.app.three"
+		},
+
+		{
+			"appName": "App 4",
+			"appId": "com.app.four"
+		}
+	]
+}
